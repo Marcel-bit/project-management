@@ -1,0 +1,7 @@
+git init - initalze git in current dir
+
+git remote add origin https://github.com/Marcel-bit/project-management.git
+or
+git clone https://github.com/Marcel-bit/project-management.git - automaticily makes origin
+
+git pull origin master - update local dir with changes on github
